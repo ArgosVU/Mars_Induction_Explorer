@@ -2,6 +2,6 @@
 
 Unity Prototype for GeoPlasma development
 
-![SDO_COMPOSITE](https://argos.vu/wp-content/uploads/2021/07/Pou-768x476-1.png)
+![Spherical Harmonics SPLASH](https://argos.vu/wp-content/uploads/2021/07/Pou-768x476-1.png)
 
-(Spherical Harmonics - 
+(Spherical Harmonics Reference - [Spherical Harmonics](https://argos.vu/wp-content/uploads/2021/10/Chapter4_multipole.pdf)
