@@ -10,6 +10,21 @@ A PC/VR version (Developed on the Quest2) can be downloaded here:
 
 [Mars_Explorer_DTC_EXE](https://argos.vu/DTC_MARS/Mars_Explorer_DTC_EXE.zip)
 
+# MARS VR ASSEMBLY
+
+![MARS VR ASSEMBLY](https://argos.vu/wp-content/uploads/2021/10/XR2.png)
+
+The Root Transform for the Mars assembly is located on "MARS_ORIGIN" as shown above. The moons Phobos and Deimos are children of their "ROTA" transforms respectively. 
+
+"MARS ROTATION BASE" is the root and rotationally controlled transform for the Mars surfaces.
+
+"MARS GEO ZOOM CONTROL" is event processor base that handles user interactions with the planet and initiates all navigation from the "Planet View"
+to the surface.
+
+"UI AND SURFACE BUTTONS" contains the North Pole UI interactions as well as the animated Surface buttons which allow the user to travel between the "Planet View" and the surface.
+
+"MAVEN AURORA" contains the auroral imagery composited from the MAVEN UV mission as presented at the DTC conference. 
+
 # XR RIG
 
 ![XR_RIG](https://argos.vu/wp-content/uploads/2021/10/XR1.png)
