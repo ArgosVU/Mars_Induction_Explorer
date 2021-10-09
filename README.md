@@ -9,4 +9,4 @@ Unity Prototype for GeoPlasma development
 ![Diocotron img](https://argos.vu/wp-content/uploads/2021/10/3-Figure3-1.png)
 
 
-(Diocotron Instability Reference - [Dioc](https://becomingborealis.com/wp-content/uploads/2018/10/BOSTICK_Plasmon.pdf))
+(Diocotron Instability Reference - [Diocotron Instability](https://www.plasma-universe.com/diocotron-instability/))
