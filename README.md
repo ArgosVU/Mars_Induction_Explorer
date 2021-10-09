@@ -10,3 +10,4 @@ Unity Prototype for GeoPlasma development
 
 
 (Diocotron Instability Reference - [Diocotron Instability](https://www.plasma-universe.com/diocotron-instability/))
+(Winston H. Bostick on Plasmoids - [Bostick on Plasmoids](https://becomingborealis.com/bostick-plasmoids/))
