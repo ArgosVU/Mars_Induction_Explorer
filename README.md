@@ -29,7 +29,7 @@ to the surface.
 
 ![XR_RIG](https://argos.vu/wp-content/uploads/2021/10/XR1.png)
 
-The XR Rig can be located in the project hierarchy as shown above. Orientation and Position of Rig is adjusted by the user
+The XR Rig can be located in the project hierarchy as shown above. Orientation and Position of the Rig is adjusted by the user
 
 using the "A" button on the right controller.
 
@@ -46,4 +46,3 @@ using the "A" button on the right controller.
 
 (Winston H. Bostick on Plasmoids - [Bostick on Plasmoids](https://becomingborealis.com/bostick-plasmoids/))
 
-![Unity_1 img](https://argos.vu/wp-content/uploads/2021/10/MARS_1.png)
