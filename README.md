@@ -8,7 +8,7 @@ This project is built using Unity ver 2020.3.17f1 - the full project can be down
 
 A PC/VR version (Developed on the Quest2) can be downloaded here:
 
-[Mars_Explorer_DTC_001](https://argos.vu/DTC_MARS/Mars_Explorer_DTC_OS_001.zip)
+[Mars_Explorer_DTC_EXE](https://argos.vu/DTC_MARS/Mars_Explorer_DTC_EXE.zip)
 
 ![Spherical Harmonics img](https://argos.vu/wp-content/uploads/2021/07/Pou-768x476-1.png)
 
