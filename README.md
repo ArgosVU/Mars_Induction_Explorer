@@ -10,6 +10,16 @@ A PC/VR version (Developed on the Quest2) can be downloaded here:
 
 [Mars_Explorer_DTC_EXE](https://argos.vu/DTC_MARS/Mars_Explorer_DTC_EXE.zip)
 
+![XR_RIG](https://argos.vu/wp-content/uploads/2021/10/XR1.png)
+
+# XR RIG
+
+The XR Rig can be located in the project hierarchy as shown above. Orientation and Position of Rig is adjusted by the user
+
+using the "A" button on the right controller.
+
+(Spherical Harmonics Reference - [Spherical Harmonics](https://argos.vu/wp-content/uploads/2021/10/Chapter4_multipole.pdf))
+
 ![Spherical Harmonics img](https://argos.vu/wp-content/uploads/2021/07/Pou-768x476-1.png)
 
 (Spherical Harmonics Reference - [Spherical Harmonics](https://argos.vu/wp-content/uploads/2021/10/Chapter4_multipole.pdf))
