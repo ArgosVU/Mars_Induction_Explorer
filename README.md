@@ -2,7 +2,7 @@
 
 Unity Prototype for GeoPlasma development
 
-This project is build using Unity ver 2020.3.17f1 - the full project can be downloaded here:
+This project is built using Unity ver 2020.3.17f1 - the full project can be downloaded here:
 
 [Mars_Explorer_DTC_001](https://argos.vu/DTC_MARS/Mars_Explorer_DTC_OS_001.zip)
 
