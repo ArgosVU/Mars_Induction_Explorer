@@ -10,6 +10,14 @@ A PC/VR version (Developed on the Quest2) can be downloaded here:
 
 [Mars_Explorer_DTC_EXE](https://argos.vu/DTC_MARS/Mars_Explorer_DTC_EXE.zip)
 
+![DTC_VID_IMG](https://argos.vu/wp-content/uploads/2021/10/DTC_VIDEOS.png)
+
+([Presentation at Digital Twin Consortium Q3 - Presentation Video](https://youtu.be/fS4WjpeI61U))
+
+![DTC_CONF_IMG](https://argos.vu/wp-content/uploads/2021/10/DTC_SMALL.png)
+
+([Conference Highlights and Participants can be viewed here - Digital Twin Conference Q3](https://www.digitaltwinconsortium.org/member-meeting-q3/index.htm))
+
 # MARS VR ASSEMBLY
 
 ![MARS VR ASSEMBLY](https://argos.vu/wp-content/uploads/2021/10/XR2.png)
@@ -18,7 +26,7 @@ The Root Transform for the Mars assembly is located on "MARS_ORIGIN" as shown ab
 
 "MARS ROTATION BASE" is the root and rotationally controlled transform for the Mars surfaces.
 
-"MARS GEO ZOOM CONTROL" is event processor base that handles user interactions with the planet and initiates all navigation from the "Planet View"
+"MARS GEO ZOOM CONTROL" is the event processor base that handles user interactions with the planet and initiates all navigation from the "Planet View"
 to the surface.
 
 "UI AND SURFACE BUTTONS" contains the North Pole UI interactions as well as the animated Surface buttons which allow the user to travel between the "Planet View" and the surface.
@@ -33,16 +41,16 @@ The XR Rig can be located in the project hierarchy as shown above. Orientation a
 
 using the "A" button on the right controller.
 
-(Spherical Harmonics Reference - [Spherical Harmonics](https://argos.vu/wp-content/uploads/2021/10/Chapter4_multipole.pdf))
-
 ![Spherical Harmonics img](https://argos.vu/wp-content/uploads/2021/07/Pou-768x476-1.png)
 
 (Spherical Harmonics Reference - [Spherical Harmonics](https://argos.vu/wp-content/uploads/2021/10/Chapter4_multipole.pdf))
 
-![Diocotron img](https://argos.vu/wp-content/uploads/2021/10/3-Figure3-1.png)
+![Octahedral img](https://argos.vu/wp-content/uploads/2021/10/Octahedral_2.png)
 
+(Octahedral Symetries - [On spherical harmonics possessing octahedral symmetry](https://argos.vu/wp-content/uploads/2021/10/Octahedral_Harmonics.pdf))
+
+![Diocotron img](https://argos.vu/wp-content/uploads/2021/10/3-Figure3-1.png)
 
 (Diocotron Instability Reference - [Diocotron Instability](https://www.plasma-universe.com/diocotron-instability/))
 
 (Winston H. Bostick on Plasmoids - [Bostick on Plasmoids](https://becomingborealis.com/bostick-plasmoids/))
-
